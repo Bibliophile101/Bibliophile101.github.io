@@ -93,12 +93,23 @@ html, body {
   background-color: #685c85;
 }
 
+.comingsoon{
+	background-color: #22223B;
+	height: 12vw;
+	background-size: 100vw auto;
+	margin-left:18vw;
+	margin-top: 15vw;
+	margin-right:2vw;
+	text-align: center;
+	color:#F2E9E4;
+}
+
 .shcombustion{
 	background-color: #988eb0;
 	height: 48vw;
 	background-size: 100vw auto;
 	margin-left:18vw;
-	margin-top: 15vw;
+	margin-top: 3vw;
 	margin-right:2vw;
 	text-align: center;
 	color: #c9453c;
