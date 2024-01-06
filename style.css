@@ -1,0 +1,237 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+	color: #4A4E69;
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+.heading{
+	height: 12vw;
+	width: 100vw;
+	background-color: #C9ADA7;
+ z-index: 2;
+  top: 0; 
+  left: 0;
+	background-size: 100vw auto;
+	text-align: left;
+	padding-left:1vw;
+	position:absolute;
+}
+
+.sidenav {
+  height: 100%;
+  width: 15vw;
+  position: fixed; 
+  z-index: 1;
+  top: 0; 
+  left: 0;
+  background-color: #22223B;
+  overflow-x: hidden; 
+  padding-top: 1.5vw; 
+}
+
+.sidenav a {
+  text-decoration: none;
+  font-size: 1.4vw;
+  display: block;
+	padding: 1vw;
+	color: #e9dbd8
+}
+
+.sidenav a:hover {
+  color: #F2E9E4;
+}
+
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+
+
+#link2:link, #link2:visited {
+  font-size: 1.5vw;
+  background-color: #c9453c;
+  color: white;
+  padding: 1.1666666666666667vw 2.0833333333333335vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom:2vw;
+}
+#link2:hover{
+  background-color: #f99790;
+}
+
+.chewchewtrain{
+	background-color: #f1c5bd;
+	height: 48vw;
+	background-size: 100vw auto;
+	margin-left:18vw;
+	margin-top: 3vw;
+	margin-right:2vw;
+	text-align: center;
+	color: #c9453c;
+}
+
+
+
+#linkshc:link, #linkshc:visited {
+  font-size: 1.5vw;
+  background-color: #1e1642;
+  color: white;
+  padding: 1.1666666666666667vw 2.0833333333333335vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom:2vw;
+}
+#linkshc:hover{
+  background-color: #685c85;
+}
+
+.shcombustion{
+	background-color: #988eb0;
+	height: 48vw;
+	background-size: 100vw auto;
+	margin-left:18vw;
+	margin-top: 15vw;
+	margin-right:2vw;
+	text-align: center;
+	color: #c9453c;
+}
+h3{
+	font-size: 2vw;
+	text-decoration:none;
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+h2{
+	font-family: 'Megrim', cursive;
+	margin-bottom:-0.7vw;
+}
+.cart{
+	height: 30vw;
+	background-size: 100vw auto;
+	margin-left:18vw;
+	margin-top: 3vw;
+	margin-right:2vw;
+	text-align: center;
+	background-image: url("ParallaxBackground.png");
+  background-attachment: fixed;
+  overflow: auto;
+	color: white;
+	font-size:5vw;
+}
+#link1:link, #link1:visited {
+  font-size: 1.5vw;
+  background-color: rgba(71, 131, 130, 0.699);
+  color: white;
+  padding: 1.1666666666666667vw 2.0833333333333335vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+#link1:hover{
+  background-color: rgb(238, 190, 190);
+}
+
+.madecyk{
+	height: 50vw;
+	background-size: 100vw auto;
+	margin-left:18vw;
+	margin-top: 3vw;
+	margin-right:2vw;
+  text-align: center;
+  overflow: auto;
+	color: white;
+	font-size:5vw;
+	background-color:white;
+}
+
+#link3:link,#link3:visited{
+  font-size: 1.5vw;
+  background-color: #F1651D;
+  color: white;
+  padding: 1.1666666666666667vw 2.0833333333333335vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+#link3:hover{
+  background-color: #adadad;
+}
+
+#link4:link,#link4:visited{
+  font-size: 1.5vw;
+  background-color: #F1651D;
+  color: white;
+  padding: 1.1666666666666667vw 2.0833333333333335vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+#link4:hover{
+  background-color: #adadad;
+}
+
+
+.footer {
+    text-align: center;
+    background: #22223B;
+	height: 7vw;
+	width: 90vw;
+	padding-left:10vw;
+	font-size: 2vw;
+	color:#C9ADA7;
+	padding-top:1vw;
+	padding-bottom:1vw;
+	margin-top:3vw;
+}
+
+
+.kale{
+	background-color: #bec09d;
+	height: 45vw;
+	background-size: 100vw auto;
+	margin-left:18vw;
+	margin-top: 3vw;
+	margin-right:2vw;
+	text-align: center;
+}
+
+#link5:link,#link5:visited{
+  font-size: 1.5vw;
+  background-color: #96996a;
+  color: white;
+  padding: 1.1666666666666667vw 2.0833333333333335vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+#link5:hover{
+  background-color: #f99790;
+}
+.writing{
+	margin-left:18vw;
+	margin-top: 15vw;
+	margin-right: 2vw;
+	text-align: center;
+}
+.writing a{
+	color: #22223B;
+	font-size:1.5vw;
+}
+pre{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.5vw;
+}
+video{
+	height:15vw;
+	width: auto;
+}
+
