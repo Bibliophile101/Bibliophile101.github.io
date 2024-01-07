@@ -138,6 +138,17 @@ h2{
 	color: white;
 	font-size:5vw;
 }
+.creations{
+	background-color: #b28891;
+	height: 48vw;
+	background-size: 100vw auto;
+	margin-left:18vw;
+	margin-top: 3vw;
+	margin-right:2vw;
+	text-align: center;
+	color: #ffffff;
+}
+
 #link1:link, #link1:visited {
   font-size: 1.5vw;
   background-color: rgba(71, 131, 130, 0.699);
@@ -227,22 +238,23 @@ h2{
 #link5:hover{
   background-color: #f99790;
 }
-.writing{
-	margin-left:18vw;
-	margin-top: 15vw;
-	margin-right: 2vw;
-	text-align: center;
+
+
+#linkcc:link,#linkcc:visited{
+  font-size: 1.5vw;
+  background-color: #dfbdc5;
+  color: white;
+  padding: 1.1666666666666667vw 2.0833333333333335vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
-.writing a{
-	color: #22223B;
-	font-size:1.5vw;
+#linkcc:hover{
+  background-color: #7e5e65;
 }
+
 pre{
 	font-family: "Times New Roman", Times, serif;
 	font-size: 1.5vw;
-}
-video{
-	height:15vw;
-	width: auto;
 }
 
