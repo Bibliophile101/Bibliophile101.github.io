@@ -88,15 +88,18 @@ html, body {
 	color: #FFFFFF;
 }
 
-#linkbody:hover{
-  background-color: #4a070e;
+#linkbody:link, #linkbody:visited {
   font-size: 1.5vw;
+  background-color: #4a070e;
   color: white;
- padding: 1.1666666666666667vw 2.0833333333333335vw;
+  padding: 1.1666666666666667vw 2.0833333333333335vw;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   margin-bottom:2vw;
+}
+#linkbody:hover{
+  background-color: #990e0e;
 }
 
 
