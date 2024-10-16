@@ -112,11 +112,14 @@ html, body {
 	height: 48vw;
 	background-size: 100vw auto;
 	margin-left:18vw;
-	margin-top: 3vw;
+	margin-top: 15vw;
 	margin-right:2vw;
 	text-align: center;
 	color: #c9453c;
 }
+
+
+
 h3{
 	font-size: 2vw;
 	text-decoration:none;
