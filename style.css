@@ -78,10 +78,11 @@ html, body {
 }
 
 .bodyIR{
-	background-color: #FFFFFF;
+	background-color: #FCEEE1;
 	background-size: 100vw auto;
+	height: 48vw;
 	margin-left:18vw;
-	margin-top: 3vw;
+	margin-top: 0vw;
 	margin-right:2vw;
 	text-align: center;
 }
