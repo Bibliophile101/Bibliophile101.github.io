@@ -79,13 +79,11 @@ html, body {
 
 .bodyIR{
 	background-color: #FFFFFF;
-	height: 48vw;
 	background-size: 100vw auto;
 	margin-left:18vw;
 	margin-top: 3vw;
 	margin-right:2vw;
 	text-align: center;
-	color: #FFFFFF;
 }
 
 #linkbody:link, #linkbody:visited {
